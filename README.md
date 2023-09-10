@@ -1,6 +1,7 @@
-# Dotnet Teste de integração
+# Dotnet + Docker + Dapper + PostgreSQL 
 
-Este é um exemplo de projeto .NET que utiliza o Dapper para acesso a dados e Docker para gerenciar um banco de dados PostgreSQL. Este fluxo será utilizado como teste de integração.
+Este é um exemplo de projeto .NET que utiliza o Dapper para acesso a dados e Docker para gerenciar um banco de dados PostgreSQL.
+A finalidade dele é demonstrar como importar dados de investimentos para uma base de dados.
 
 
 ## Configurando o Banco de Dados PostgreSQL
